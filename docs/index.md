@@ -31,7 +31,7 @@
 
 <div align="center">
  <img src="images/wechat.png" alt="wechat" width="20%" height ="20%" />
-</div
+</div>
  
 <p style="text-align:justify">Business AI is not only used in money-related fields, it can also be used in data-driven public services, such as medical diagnosis. It can help first-class doctors find the relevance of disease data, make better diagnoses, serve more patients, and relieve medical pressure. Business AI can also be used as court assistants, using past case data to provide judges with relevant evidence and advice on judgments, etc.</p>
 
@@ -58,8 +58,8 @@
 <p style="text-align:justify">As for who will take the lead in the four waves of AI, the author gives his opinion that the two countries will be roughly evenly divided. The following chart shows the author's prediction.</p>
 
 <div align="center">
- <img src="images/ai-book-image.png" alt="ai-book-image" width="30%" height ="30%" />
-</div
+ <img src="images/ai-book-image.png" alt="ai-book-image" width="40%" height ="40%" />
+</div>
 
 
 <h1 align = "center"> Conclusion</h1>
