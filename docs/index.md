@@ -58,7 +58,7 @@
 <p style="text-align:justify">As for who will take the lead in the four waves of AI, the author gives his opinion that the two countries will be roughly evenly divided. The following chart shows the author's prediction.</p>
 
 <div align="center">
- <img src="images/ai-book-image.png" alt="ai-book-image" width="40%" height ="40%" />
+ <img src="images/ai-book-image.png" alt="ai-book-image" width="50%" height ="50%" />
 </div>
 
 
