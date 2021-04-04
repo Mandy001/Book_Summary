@@ -9,7 +9,7 @@
 </h3>
 
 <div align="center">
- <img src="images/book.jpeg" alt="book" width="30%" height ="30%" />
+ <img src="images/book.jpeg" alt="book" width="20%" height ="20%" />
 </div>
 
 <p style="text-align:justify">In Chapter 5 of AI Superpowers: China, Silicon Valley, and the New World Order, Lee illustrates the four waves of AI with the example of iFlyTek at the beginning. The four waves of AI which "will ultimately wash over us" are : internet AI, business AI, perception AI and autonomous AI.</p>
@@ -30,7 +30,7 @@
 <p style="text-align:justify">The deep learning algorithm of Micro Loan in China not only looks at obvious indicators, such as how much money is in the user’s WeChat wallet, but also makes analysis based on data points that are considered insignificant by ordinary bank loan reviewers, such as the speed at which the user enters the date of birth, How much power is left in the phone battery and thousands of other data. These data seem to be very weakly correlated, but once the number is very large, it can greatly increase the accuracy of AI loan judgments, which is something humans cannot do.</p>
 
 <div align="center">
- <img src="/images/wechat.png" alt="wechat" width="30%" height ="30%" />
+ <img src="images/wechat.png" alt="wechat" width="20%" height ="20%" />
 </div
  
 <p style="text-align:justify">Business AI is not only used in money-related fields, it can also be used in data-driven public services, such as medical diagnosis. It can help first-class doctors find the relevance of disease data, make better diagnoses, serve more patients, and relieve medical pressure. Business AI can also be used as court assistants, using past case data to provide judges with relevant evidence and advice on judgments, etc.</p>
@@ -58,7 +58,7 @@
 <p style="text-align:justify">As for who will take the lead in the four waves of AI, the author gives his opinion that the two countries will be roughly evenly divided. The following chart shows the author's prediction.</p>
 
 <div align="center">
- <img src="/images/ai-book-image.png" alt="ai-book-image" width="30%" height ="30%" />
+ <img src="images/ai-book-image.png" alt="ai-book-image" width="30%" height ="30%" />
 </div
 
 
